@@ -5,9 +5,9 @@
 🐍 Estudando Python
 
 Atualmente aprendendo:
-- Linux
-- Redes
-- Segurança Web
+- Basico de HTML, CSS e JavaScript
+- Fundamentos de CyberSecurity
+- Lógica da programação
 
 ## Objetivo
 Me tornar Analista de Cybersegurança e
