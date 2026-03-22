@@ -10,4 +10,5 @@ Currently learning:
 - Cybersecurity Fundamentals
 - Programming Logic
 
-## Goal: To become a Cybersecurity Analyst and develop my own tools with Python.
+## Goal:
+To become a Cybersecurity Analyst and develop my own tools with Python.
