@@ -1,14 +1,13 @@
-## Olá, me chamo Aurick👋
+## Hello, my name is Aurick
 
-🎓 Estudante de Engenharia de Software  
-🛡️ Focado em Cybersegurança  
-🐍 Estudando Python
+🎓 Software Engineering Student
+🛡️ Focused on Cybersecurity
+🐍 Studying Python
 
-Atualmente aprendendo:
-- Basico de HTML, CSS e JavaScript
-- Fundamentos de CyberSecurity
-- Lógica da programação
+Currently learning:
 
-## Objetivo
-Me tornar Analista de Cybersegurança e
-desenvolver ferramentas próprias com Python
+- Basic HTML, CSS, and JavaScript
+- Cybersecurity Fundamentals
+- Programming Logic
+
+## Goal: To become a Cybersecurity Analyst and develop my own tools with Python.
