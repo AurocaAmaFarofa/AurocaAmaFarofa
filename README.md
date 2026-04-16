@@ -1,5 +1,5 @@
-# Hello, I'm Aurick 
--  💻 Software Engineering Student focused on Cybersecurity and Full Stack Development.
+# Hello, I'm Aurick
+💻 Software Engineering Student focused on Cybersecurity and Full Stack Development.
 -  Interested in systems and security  
 -  Building a solid foundation in programming  
 
