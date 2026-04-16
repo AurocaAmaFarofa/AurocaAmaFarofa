@@ -1,14 +1,30 @@
-## Hello, my name is Aurick
+# Hello, I'm Aurick 
 
-🎓 Software Engineering Student
-🛡️ Focused on Cybersecurity
-🐍 Studying Python
+💻 Software Engineering Student focused on Cybersecurity and Full Stack Development.
 
-Currently learning:
+---
 
-- Basic HTML, CSS, and JavaScript
-- Cybersecurity Fundamentals
-- Programming Logic
+## About Me
+-  Interested in systems and security  
+-  Building a solid foundation in programming  
 
-## Goal:
-To become a Cybersecurity Analyst and develop my own tools with Python.
+---
+
+## Currently Learning
+- 🌐 HTML, CSS and JavaScript  
+- ⚡ C programming language  
+- 🔐 Cybersecurity fundamentals  
+
+---
+
+## Goals
+- 🛡️ Become a Cybersecurity Analyst  
+- 🐍 Develop tools with Python  
+- 🌍 Or become a Full Stack Developer  
+
+---
+
+## Future Plans 
+-  Build personal projects  
+-  Study ethical hacking and pentesting  
+-  Contribute to open source  
