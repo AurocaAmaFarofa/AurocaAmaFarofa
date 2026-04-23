@@ -1,5 +1,7 @@
 # About Me:
-💻 Software Engineering Student focused on Cybersecurity and Full Stack Development.<br>- Interested in systems and security<br>- Building a solid foundation in programming
+💻 Software Engineering Student focused on Cybersecurity and Full Stack Development.
+- Interested in systems and security
+- Building a solid foundation in programming
 
 # Currently Learning
 - 🌐 HTML, CSS and JavaScript
