@@ -72,10 +72,12 @@
 
 ## About Me
 
-<table width="100%">
+<div align="center">
+
+<table width="90%">
 <tr>
 
-<td width="50%">
+<td width="60%">
 
 ```{
   "name": "Auro",
@@ -111,6 +113,8 @@
 </tr>
 
 </table>
+
+</div>
 
 <br/>
 
