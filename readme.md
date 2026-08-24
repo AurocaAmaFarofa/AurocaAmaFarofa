@@ -79,7 +79,8 @@
 
 <td width="60%">
 
-```{
+```
+{
   "name": "Auro",
 
   "currently_learning": [
