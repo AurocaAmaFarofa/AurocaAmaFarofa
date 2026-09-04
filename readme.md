@@ -57,7 +57,7 @@
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
 ### Backend & Tools
 
